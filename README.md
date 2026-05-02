@@ -1,6 +1,6 @@
-# Hexor 🧑‍🔧
+## 0xhexor
 
-**`Developer`**
+#### **`Developer`**
 
 At the moment, im learning programming to make useful projects (beginner). My goal is to build my own freedom through the technology to escape the matrix.
 
@@ -14,6 +14,7 @@ At the moment, im learning programming to make useful projects (beginner). My go
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+          
 <img 
     align="left" 
     alt="CSS" 
@@ -22,6 +23,35 @@ At the moment, im learning programming to make useful projects (beginner). My go
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="Javascript" 
+    title="Javascript"
+    width="27px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>  
+
+<img 
+    align="left" 
+    alt="Alpine.js"
+    title="Alpine.js" 
+    width="33px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Tailwind" 
@@ -30,14 +60,7 @@ At the moment, im learning programming to make useful projects (beginner). My go
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Laravel" 
@@ -46,42 +69,63 @@ At the moment, im learning programming to make useful projects (beginner). My go
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Livewire" 
     title="Livewire"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+
+
+<img
+    align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Bash" 
+    title="Bash"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/gnubash/white"
+/>
+          
 
 <br/>
 <br/>
 
 ### 📊 Statics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div style="display:flex;">
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+height="180em" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xhexor&theme=tokyonight" 
+/>
 
-</p>
+<img 
+height="180em" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xhexor&theme=tokyonight" 
+/>
+
+</div>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=0xhexor&theme=tokyonight"/>
+
